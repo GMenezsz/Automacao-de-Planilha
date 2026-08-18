@@ -1,3 +1,4 @@
+**Planilha ilustrativa usada para estudos, sem informações e dados reais de pessoas**
 
 # 📊 Automação de Planilhas em Python
 
@@ -17,7 +18,7 @@ Projeto desenvolvido para automatizar a leitura, filtragem e geração de relat�
 📦 Automação de Planilhas
  ┣ 📜 main.py                  # Script principal que executa a automação
  ┣ 📜 utils.py                 # Funções auxiliares de processamento e filtros
- ┗ 📜 relatorio_financeiro_vendas.xlsx  # Planilha base de dados (entrada)
+ ┗ 📜 relatorio_financeiro_vendas.xlsx  # Planilha base de dados (entrada).
 ```
 
 ## ⚙️ Funcionalidades
