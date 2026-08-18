@@ -5,7 +5,7 @@ Projeto desenvolvido para automatizar a leitura, filtragem e geração de relat�
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x**
+* **Python**
 * **Pandas** (manipulação e análise de dados)
 * **Openpyxl** (motor para leitura e escrita de arquivos `.xlsx`)
 
