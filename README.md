@@ -37,4 +37,4 @@ O script processa o arquivo `relatorio_financeiro_vendas.xlsx` (na aba "Vendas")
    pip install pandas openpyxl
    ```
 2. Certifique-se de que o arquivo de dados `relatorio_financeiro_vendas.xlsx` está na mesma pasta do projeto.
-3. Execute o script principal
+3. Execute o script principal na **"main.py"**
