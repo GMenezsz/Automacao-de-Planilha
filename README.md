@@ -1,4 +1,4 @@
-**Planilha ilustrativa usada para estudos, sem informações e dados reais de pessoas**
+**OBS: Planilha ilustrativa usada para estudos, sem informações e dados reais de pessoas**
 
 # 📊 Automação de Planilhas em Python
 
