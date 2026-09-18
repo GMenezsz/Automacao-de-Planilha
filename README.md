@@ -27,8 +27,8 @@ Este projeto consiste num script em Python desenvolvido com a biblioteca **Panda
 
 ## 📦 Como Instalar e Executar
 
-1. Certifica-te de que tens o Python instalado no teu sistema.
-2. Instala as dependências necessárias executando o seguinte comando no teu terminal:
+1. Certifica-te de que tenha o Python instalado no seu sistema.
+2. Instala as dependências necessárias executando o seguinte comando no seu terminal:
    ```bash
    pip install pandas numpy openpyxl
    ```
